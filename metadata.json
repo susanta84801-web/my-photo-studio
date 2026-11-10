@@ -1,0 +1,6 @@
+{
+  "name": "My Photo Studio",
+  "description": "A powerful, modern photo editing studio with adjustments, filters, crop & transform, and seamless Google Drive integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
